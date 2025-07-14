@@ -9,9 +9,9 @@
 
 ## Overview
 
-This thesis investigates how Transformer models can be applied to construct **Mathematical Knowledge Graphs (KGs)** from unstructured text data. It adapts an attention-based span classification method to leverage the **distributional hypothesis** through the **Transformer attention mechanism**, aiming to improve **predicate classification** in mathematical contexts.
+This thesis investigates how Transformer models can be applied to construct Mathematical Knowledge Graphs (KGs) from unstructured text data. It adapted an attention-based span classification method which leveraged the distributional hypothesis via the Transformer attention mechanism, with the goal of improving predicate classification in mathematical contexts.
 
-The study addresses limitations in traditional knowledge graph construction — particularly its reliance on manual or rule-based information extraction (IE) — and explores how **Large Language Models (LLMs)** can automate and enhance this process.
+The study addresses shortfalls in traditional knowledge graph construction, for example its reliance on manual or rule-based information extraction (IE), and explored how Large Language Models (LLMs) can enhance this process.
 
 ---
 
