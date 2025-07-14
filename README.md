@@ -49,7 +49,7 @@ An attention-based span method from a previous study was adapted to leverage the
 
 ## Contact
 
-For questions or collaborations, feel free to reach out via GitHub: [@HeatherDriver](https://github.com/HeatherDriver)
+For questions or collaborations, contact me via GitHub: [@HeatherDriver](https://github.com/HeatherDriver)
 
 ---
 
